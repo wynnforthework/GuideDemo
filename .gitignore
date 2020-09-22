@@ -1,4 +1,4 @@
-bin-debug/
+bin-debug/*
 libs/
 .wing/tasks.json
 .wing/launch.json
