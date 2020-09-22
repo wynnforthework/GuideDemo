@@ -1,10 +1,8 @@
-zjws/bin-debug/
-zjws/libs/exml.e.d.ts
-zjws/libs/modules/*
-!zjws/libs/modules/egret
-zjws/.wing/tasks.json
-zjws/.wing/launch.json
-zjws/.vscode/
+bin-debug/
+libs/
+.wing/tasks.json
+.wing/launch.json
+.vscode/
 
 # Created by https://www.toptal.com/developers/gitignore/api/visualstudiocode,macos,windows
 # Edit at https://www.toptal.com/developers/gitignore?templates=visualstudiocode,macos,windows
