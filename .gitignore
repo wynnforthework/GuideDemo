@@ -1,4 +1,4 @@
-zjws/bin-debug/
+zjws/bin-debug
 zjws/libs/exml.e.d.ts
 zjws/libs/modules/*
 !zjws/libs/modules/egret
