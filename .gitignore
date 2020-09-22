@@ -1,8 +1,8 @@
-bin-debug/*
 libs/
 .wing/tasks.json
 .wing/launch.json
 .vscode/
+bin-debug/
 
 # Created by https://www.toptal.com/developers/gitignore/api/visualstudiocode,macos,windows
 # Edit at https://www.toptal.com/developers/gitignore?templates=visualstudiocode,macos,windows
@@ -772,3 +772,4 @@ MigrationBackup/
 
 ${tmpdir}/
 token/
+
